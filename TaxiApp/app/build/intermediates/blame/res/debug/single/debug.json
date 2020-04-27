@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_provider_marker.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\provider_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_provider_location_icon.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\provider_location_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_people.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\people.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fb.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up_top.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\anim\\slide_up_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_user_marker.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\user_marker.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_money_icon.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\money_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_set_location.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\set_location.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_current_location.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\current_location.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\anim\\slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_right.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share_ride.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\share_ride.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_activity_back_in.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\anim\\activity_back_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_right.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\ic_right.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next_icon.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\next_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_google.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_help_mail.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\help_mail.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_popup.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\anim\\popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_banner.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\banner.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_activity_back_out.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\anim\\activity_back_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up_down.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\anim\\slide_up_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_icon.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\menu_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_icon.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\back_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_white.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\back_white.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_help_call.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\help_call.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_help_web.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\help_web.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mail_icon.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\mail_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sos.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\sos.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_credit_card.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_coupon_bg.png.flat",
+        "source": "C:\\Users\\PPAGACZ\\Desktop\\school\\SEMIIIMGR\\TaxiApp\\app\\src\\main\\res\\drawable-hdpi\\coupon_bg.png"
+    }
+]

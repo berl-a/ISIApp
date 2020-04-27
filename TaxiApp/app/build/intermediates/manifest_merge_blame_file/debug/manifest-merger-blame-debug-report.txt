@@ -1,0 +1,142 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.taxiapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:51:5-79
+11-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:51:22-76
+12
+13    <!-- Include required permissions for Google Maps API to run. -->
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+14-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+15-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:22-64
+16
+17    <uses-feature
+17-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+18        android:glEsVersion="0x00020000"
+18-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+19        android:required="true" />
+19-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\edb03ed300512ae8da7c146a103a6c79\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+20    <!--
+21         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+22         Google Maps Android API v2, but you must specify either coarse or fine
+23         location permissions for the 'MyLocation' functionality.
+24    -->
+25    <application
+25-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:10:5-49:19
+26        android:allowBackup="true"
+26-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:11:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.0.1] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\51ec9767ead7a598d20dd24a7369e6f6\core-1.0.1\AndroidManifest.xml:22:18-86
+28        android:debuggable="true"
+29        android:icon="@mipmap/ic_launcher"
+29-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:12:9-43
+30        android:label="@string/app_name"
+30-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:13:9-41
+31        android:roundIcon="@mipmap/ic_launcher_round"
+31-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:14:9-54
+32        android:supportsRtl="true"
+32-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:15:9-35
+33        android:testOnly="true"
+34        android:theme="@style/AppTheme" >
+34-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:16:9-40
+35        <uses-library
+35-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:18:9-87
+36            android:name="org.apache.http.legacy"
+36-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:18:23-60
+37            android:required="false" />
+37-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:18:61-85
+38
+39        <!--
+40             The API key for Google Maps-based APIs is defined as a string resource.
+41             (See the file "res/values/google_maps_api.xml").
+42             Note that the API key is linked to the encryption key used to sign the APK.
+43             You need a different API key for each encryption key, including the release key that is used to
+44             sign the APK for publishing.
+45             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+46        -->
+47
+48        <activity android:name="com.example.taxiapp.Activities.StartActivity" >
+48-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:29:9-34:20
+48-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:29:19-59
+49            <intent-filter>
+49-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:30:13-33:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:31:17-69
+50-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:31:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:32:17-77
+52-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:32:27-74
+53            </intent-filter>
+54        </activity>
+55        <activity android:name="com.example.taxiapp.Activities.LoginActivity" />
+55-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:37:9-71
+55-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:37:19-59
+56        <activity android:name="com.example.taxiapp.Activities.RegisterActivity" />
+56-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:38:9-74
+56-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:38:19-62
+57        <activity android:name="com.example.taxiapp.Activities.MapsActivity" >
+57-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:41:9-43:20
+57-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:41:19-58
+58        </activity>
+59
+60        <meta-data
+60-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:46:9-48:55
+61            android:name="com.google.android.geo.API_KEY"
+61-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:47:13-58
+62            android:value="@string/google_maps_key" />
+62-->C:\Users\PPAGACZ\Desktop\school\SEMIIIMGR\TaxiApp\app\src\main\AndroidManifest.xml:48:13-52
+63
+64        <activity
+64-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\0b751f73b7857c3c706b07f44c5d64c9\jetified-play-services-auth-18.0.0\AndroidManifest.xml:23:9-27:75
+65            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+65-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\0b751f73b7857c3c706b07f44c5d64c9\jetified-play-services-auth-18.0.0\AndroidManifest.xml:24:13-93
+66            android:excludeFromRecents="true"
+66-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\0b751f73b7857c3c706b07f44c5d64c9\jetified-play-services-auth-18.0.0\AndroidManifest.xml:25:13-46
+67            android:exported="false"
+67-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\0b751f73b7857c3c706b07f44c5d64c9\jetified-play-services-auth-18.0.0\AndroidManifest.xml:26:13-37
+68            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+68-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\0b751f73b7857c3c706b07f44c5d64c9\jetified-play-services-auth-18.0.0\AndroidManifest.xml:27:13-72
+69        <!--
+70            Service handling Google Sign-In user revocation. For apps that do not integrate with
+71            Google Sign-In, this service will never be started.
+72        -->
+73        <service
+73-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\0b751f73b7857c3c706b07f44c5d64c9\jetified-play-services-auth-18.0.0\AndroidManifest.xml:33:9-36:110
+74            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+74-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\0b751f73b7857c3c706b07f44c5d64c9\jetified-play-services-auth-18.0.0\AndroidManifest.xml:34:13-89
+75            android:exported="true"
+75-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\0b751f73b7857c3c706b07f44c5d64c9\jetified-play-services-auth-18.0.0\AndroidManifest.xml:35:13-36
+76            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+76-->[com.google.android.gms:play-services-auth:18.0.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\0b751f73b7857c3c706b07f44c5d64c9\jetified-play-services-auth-18.0.0\AndroidManifest.xml:36:13-107
+77
+78        <activity
+78-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\a58fc5e9e74fb00d40e64fbd86457ba4\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+79            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+79-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\a58fc5e9e74fb00d40e64fbd86457ba4\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+80            android:exported="false"
+80-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\a58fc5e9e74fb00d40e64fbd86457ba4\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+81            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+81-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\a58fc5e9e74fb00d40e64fbd86457ba4\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+82
+83        <meta-data
+83-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\b829678619b7891eab4d588e1e834fbd\jetified-play-services-basement-17.1.1\AndroidManifest.xml:23:9-25:69
+84            android:name="com.google.android.gms.version"
+84-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\b829678619b7891eab4d588e1e834fbd\jetified-play-services-basement-17.1.1\AndroidManifest.xml:24:13-58
+85            android:value="@integer/google_play_services_version" />
+85-->[com.google.android.gms:play-services-basement:17.1.1] C:\Users\PPAGACZ\.gradle\caches\transforms-2\files-2.1\b829678619b7891eab4d588e1e834fbd\jetified-play-services-basement-17.1.1\AndroidManifest.xml:25:13-66
+86    </application>
+87
+88</manifest>
