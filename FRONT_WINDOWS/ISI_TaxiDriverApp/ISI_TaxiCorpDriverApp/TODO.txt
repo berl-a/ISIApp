@@ -1,0 +1,81 @@
+﻿RZECZY DO ZROBIENIA	|||||||||||||||||||||||||||||||||||||||||||
+---------------------------------------------------------------
+
+Kwestie programistyczne, do zaimplementowania
+--------------------------------------------
+- Transformata XSLT
+	- Przekształcanie otrzymanych z zewnętrznego API plików XML, do formatu i zakresu potrzebnego w aplikacji (Google)
+	- Przygotowanie transformaty, która na wyjściu zwróci plik XML jedynie z dystansem
+
+
+- Schematy XML
+	- Walidacja wejściowego pliku XML ( wejściowego do transformaty, przed przetworzeniem )
+
+- Integracja z autentykacją po stronie serwera przy logowaniu do aplikacji
+	- ?
+
+
+- Integracja z Api google (integracja z Distance matrix)
+	- Klucz API, żeby strzelać zapytaniami
+	- Metoda która wysyła dane o punktach początkowym i końcowym trasy, i otrzymuje dystans między tymi punktami.
+	- Otrzymany dystans wysyłany jest w zapytaniu na serwer, w celu otrzymania kwoty należności
+	- Otrzymana kwota pojawi się w szczegółach zlecenia po zakończeniu zlecenia (przycisk)
+
+	--> ?? co z obliczaniem dystansu pomiędzy osobą zlecającą a kierowcami, którzy będą mogli podjąć zlecenie ??
+	--> ?? serwer zna aktualną pozycję kierowcy, czy kierowca sam musi ją sprawdzić ??
+
+
+- Wyszukiwanie kierowcy (odbieranie, sprawdzanie czy pojawiło się żądanie o kierowcę, z możliwością wysłania odpowiedzi na żądanie)
+	- Widoczna na głównym dashboardzie kontrolka, która wskazuje na istnienie zleceń
+	- Istniejace zlecenia znajdowałyby się na formie (Requesty), posortowane od najbliższych do najdalszych
+	- Kieowca z poziomu requestów ma możliwość podjęcia się zlecenia
+	- W momencie podjęcia zlecenia, status kierowcy ulega zmianie, i do momentu zakończenia obecnego zlecenia nie ma on możliwości podjąć się
+		następnych.
+	- Zakończenie zlecenia uruchamia funkjcję obliczania ceny przejazdu która następnie jest wyświetlona w szczegółach zlecenia.
+
+
+---------------------------------------
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+||||||||||||||||DESIGN|||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+|||||||||||||||||||||||||||||||||||||||
+---------------------------------------
+
+- Ekran logowania
+
+- Ekran główny z zakładkami
+	- Dashboard (Powiadomienie o istnieniu nowych requestów, Status kierowcy, Aktualne zlecenie np. Trzebnica - Wrocław (21 km),)
+	- Requesty 
+
+	- Szczegóły zlecenia (Pasażer, Kwota, dystans, punkt początkowy i docelony, czas trwania kursu)
+		-Zarządzanie aktualnym zleceniem (obsługa aktualnego zlecenia, w szczegółach którego jesteśmy)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
