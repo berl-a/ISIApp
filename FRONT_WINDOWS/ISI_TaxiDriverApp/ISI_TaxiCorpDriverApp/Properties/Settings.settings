@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ISI_TaxiCorpDriverApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="GoogleApiKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AIzaSyBwJQo-TcvhI1bVDNVzPbTrcYqubEGuuhs</Value>
+    </Setting>
+    <Setting Name="GoogleApiUrlXml" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://maps.googleapis.com/maps/api/distancematrix/xml</Value>
+    </Setting>
+    <Setting Name="LogFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">log.txt</Value>
+    </Setting>
+    <Setting Name="ISIApiServerUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://isiapp-env.eba-nhbvhbzn.us-east-1.elasticbeanstalk.com</Value>
+    </Setting>
+    <Setting Name="BearerTokenKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Bearer</Value>
+    </Setting>
+    <Setting Name="GoogleOAuthClientId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">741884223594-en98v9jdknlpqe4q079s2jeqrmlo1tkl.apps.googleusercontent.com</Value>
+    </Setting>
+    <Setting Name="GoogleOAuthClientSecretKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1ty--K_fE_uODaDimqmzrYj8</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
