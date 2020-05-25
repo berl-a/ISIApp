@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DistanceMatrixResponse>
+  <status>OK</status>
+  <origin_address>Składowa 4, 26-052 Sitkówka-Nowiny, Poland</origin_address>
+  <destination_address>Kościelna 21, 55-100 Trzebnica, Poland</destination_address>
+  <row>
+    <element>
+      <status>OK</status>
+      <duration>
+        <value>14021</value>
+        <text>3 hours 54 mins</text>
+      </duration>
+      <distance>
+        <value>353331</value>
+        <text>353 km</text>
+      </distance>
+    </element>
+  </row>
+</DistanceMatrixResponse>

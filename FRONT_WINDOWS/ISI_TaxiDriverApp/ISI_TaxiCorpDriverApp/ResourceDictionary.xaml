@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:ISI_TaxiCorpDriverApp"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <BitmapImage x:Key="TaxiBackground" UriSource="../Resources/taxi_background.png" />
+    <BitmapImage x:Key="WhiteBackground" UriSource="../Resources/white_background.png" />
+    
+    <system:String x:Key="TaxiAppName">Taxi Corp Driver</system:String>
+    <system:String x:Key="SignIn">Sign in</system:String>
+    <system:String x:Key="SignInWaitInfo">Follow the instructions shown in the browser window</system:String>
+
+    <BooleanToVisibilityConverter x:Key="BoolToVisibilityConverter" />
+</ResourceDictionary>
