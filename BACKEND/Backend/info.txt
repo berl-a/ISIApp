@@ -1,0 +1,2 @@
+Elastic beanstalk region: N. Virginia
+Command to package app: mvn package
