@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payu.upisdk:upisdk:1.1.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/upisdk-1.1.2.aar/af60a5245f729b40447ebfe5f6db20c0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/upisdk-1.1.2.aar/af60a5245f729b40447ebfe5f6db20c0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/upisdk-1.1.2.aar/af60a5245f729b40447ebfe5f6db20c0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.payu.upisdk/upisdk/1.1.2/7f26d2ef65ebdfd0ab56fe4a122d73f10fc74f99/upisdk-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

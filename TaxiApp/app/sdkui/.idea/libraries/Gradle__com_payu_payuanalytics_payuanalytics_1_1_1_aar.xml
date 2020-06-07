@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payu.payuanalytics:payuanalytics:1.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/payuanalytics-1.1.1.aar/738fa20ca8dd59fd7cb139789f4e3041/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/payuanalytics-1.1.1.aar/738fa20ca8dd59fd7cb139789f4e3041/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.payu.payuanalytics/payuanalytics/1.1.1/50095e13f40abdeef85096b1edccf321287802a/payuanalytics-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

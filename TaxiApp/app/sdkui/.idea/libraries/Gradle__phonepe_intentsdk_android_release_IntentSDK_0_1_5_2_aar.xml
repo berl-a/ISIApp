@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: phonepe.intentsdk.android.release:IntentSDK:0.1.5.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/IntentSDK-0.1.5.2.aar/21197287527d26a07b195ba1c28710fb/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/IntentSDK-0.1.5.2.aar/21197287527d26a07b195ba1c28710fb/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

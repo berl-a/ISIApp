@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payu.gpay:payu-gpay:1.3.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/payu-gpay-1.3.2.aar/c86632c7f319b451bc87a0367d4359dc/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/payu-gpay-1.3.2.aar/c86632c7f319b451bc87a0367d4359dc/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/payu-gpay-1.3.2.aar/c86632c7f319b451bc87a0367d4359dc/jars/libs/r-classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.payu.gpay/payu-gpay/1.3.2/b7f18befc38cc1fa724d19feea2fa7daa280d26/payu-gpay-1.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

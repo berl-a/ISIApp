@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payu.networking:payu-core-networking:1.2.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/payu-core-networking-1.2.3.aar/79355d89f16df2f9c7c214f7a127d507/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/payu-core-networking-1.2.3.aar/79355d89f16df2f9c7c214f7a127d507/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.payu.networking/payu-core-networking/1.2.3/7c6bcf3a1ad1977117a246af409e0374c11d8edc/payu-core-networking-1.2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
