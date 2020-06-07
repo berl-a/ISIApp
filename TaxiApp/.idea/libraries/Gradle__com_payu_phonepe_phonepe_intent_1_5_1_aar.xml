@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payu.phonepe:phonepe-intent:1.5.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ed7174f10affb23d69531a76edede785/jetified-phonepe-intent-1.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ed7174f10affb23d69531a76edede785/jetified-phonepe-intent-1.5.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.payu.phonepe/phonepe-intent/1.5.1/9ffb9c07b0a4276f5d95d0e2213e5ddd789dd12d/phonepe-intent-1.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.payu.phonepe/phonepe-intent/1.5.1/c0a0b71928546f87c883293d47085c305fd701/phonepe-intent-1.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -23,6 +23,13 @@ allprojects {
     repositories {
         google()
         jcenter()
+        maven {
+            url "https://phonepe.bintray.com/PhonePeIntentSDK"
+        }
+        maven {
+            url 'https://maven.google.com/'
+            name 'Google'
+        }
         
     }
 }

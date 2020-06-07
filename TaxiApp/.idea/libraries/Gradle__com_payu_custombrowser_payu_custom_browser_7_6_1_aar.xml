@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.payu.custombrowser:payu-custom-browser:7.6.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f27c3b6f75e8f2418b72a7f1a7582b0/jetified-payu-custom-browser-7.6.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f27c3b6f75e8f2418b72a7f1a7582b0/jetified-payu-custom-browser-7.6.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f27c3b6f75e8f2418b72a7f1a7582b0/jetified-payu-custom-browser-7.6.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.payu.custombrowser/payu-custom-browser/7.6.1/a6a17a87f4885c34c997b5ae35e4c43666896a9b/payu-custom-browser-7.6.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.payu.custombrowser/payu-custom-browser/7.6.1/fa975a92636318ae684caf52d9ba4f6cf28e2990/payu-custom-browser-7.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

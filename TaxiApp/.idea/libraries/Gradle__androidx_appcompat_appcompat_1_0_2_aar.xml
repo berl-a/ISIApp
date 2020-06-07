@@ -8,6 +8,8 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a518426e46579177e15d07df26dcbd4d/appcompat-1.0.2/res" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.0.2/e38e7c85994112b70d4548176128c72b8477c110/appcompat-1.0.2-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>
